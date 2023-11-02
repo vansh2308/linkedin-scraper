@@ -1,0 +1,5 @@
+.env
+
+/webscraping-env
+.vscode/
+__pycache__/
